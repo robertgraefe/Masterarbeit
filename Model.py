@@ -1,12 +1,10 @@
 from sklearn.model_selection import train_test_split
 from pathlib import Path
-
-
+from matplotlib import pyplot as plt
 import lightgbm as lgb
 import pandas as pd
 
 import re
-
 
 DATASET_DIR = Path(r"C:\Users\rober\Google Drive\Universität\Masterarbeit\Datensatz\2. Datasets Kaggle")
 
@@ -138,6 +136,7 @@ params = {'task': 'train', 'boosting_type': 'gbdt', 'objective': 'binary', 'metr
 model = lgb.train(params, lgb_train, valid_sets=lgb_eval, early_stopping_rounds=150, verbose_eval=200)
 
 lgb.plot_importance(model, figsize=(12, 25), max_num_features=100)
+plt.show()
 
 preds = model.predict(testX)
 sub_lgb = pd.DataFrame()
