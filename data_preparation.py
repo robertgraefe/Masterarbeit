@@ -8,6 +8,7 @@ tables = ["application_test", "application_train", "bureau", "bureau_balance", "
           "HomeCredit_columns_description", "installments_payments", "POS_CASH_balance", "previous_application",
           "sample_submission"]
 
+
 def df_to_html(df, name):
     try:
         head = df.head()
