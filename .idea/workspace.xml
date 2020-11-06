@@ -120,9 +120,9 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.data_headers" />
-      <item itemvalue="Python.Model" />
       <item itemvalue="Python.Model SKLEARN" />
+      <item itemvalue="Python.Model" />
+      <item itemvalue="Python.data_headers" />
     </list>
     <recent_temporary>
       <list>
