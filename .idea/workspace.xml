@@ -20,9 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="31b25957-377f-46c7-8d46-1444801652c7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Model.py" beforeDir="false" afterPath="$PROJECT_DIR$/Models/Model.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_preparation.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_preparation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jupyter Notebook/.ipynb_checkpoints/Model sklearn-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Jupyter Notebook/.ipynb_checkpoints/Model sklearn-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jupyter Notebook/Model sklearn.ipynb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +56,7 @@
       <recent name="A:\Workspace\Python\Masterarbeit\Project\Models" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Model SKLEARN">
+  <component name="RunManager" selected="Python.test">
     <configuration name="Model SKLEARN" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Masterarbeit" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -119,15 +120,38 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Masterarbeit" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Jupyter Notebook" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Jupyter Notebook/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
+      <item itemvalue="Python.data_headers" />
       <item itemvalue="Python.Model SKLEARN" />
       <item itemvalue="Python.Model" />
-      <item itemvalue="Python.data_headers" />
+      <item itemvalue="Python.test" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Model SKLEARN" />
+        <item itemvalue="Python.test" />
         <item itemvalue="Python.Model" />
+        <item itemvalue="Python.Model SKLEARN" />
       </list>
     </recent_temporary>
   </component>
@@ -155,48 +179,49 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="223" y="0" width="1089" height="824" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604409582219">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="279" y="0" width="1089" height="824" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604782485656">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="223" y="0" width="1089" height="824" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1604409582219" />
+    <state x="279" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1604782485656" />
     <state x="548" y="129" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1604400268188">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="548" y="129" key="#com.intellij.ide.macro.MacrosDialog/0.0.1536.824@0.0.1536.824" timestamp="1604400268188" />
-    <state x="685" y="219" key="FileChooserDialogImpl" timestamp="1604423334841">
+    <state x="685" y="219" key="FileChooserDialogImpl" timestamp="1604782530818">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="548" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1604408800245" />
-    <state x="685" y="219" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1604423334841" />
+    <state x="685" y="219" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1604782530818" />
     <state x="784" y="442" key="Github.CreateGistDialog" timestamp="1604598460701">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="784" y="442" key="Github.CreateGistDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1604598460701" />
-    <state width="1899" height="295" key="GridCell.Tab.0.bottom" timestamp="1604606962597">
+    <state width="1899" height="295" key="GridCell.Tab.0.bottom" timestamp="1606788363300">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1515" height="288" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1604417003156" />
-    <state width="1899" height="295" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1604606962597" />
-    <state width="1899" height="295" key="GridCell.Tab.0.center" timestamp="1604606962597">
+    <state width="1899" height="295" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1606788363300" />
+    <state width="1899" height="295" key="GridCell.Tab.0.center" timestamp="1606788363300">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1515" height="288" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1604417003155" />
-    <state width="1899" height="295" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1604606962597" />
-    <state width="1899" height="295" key="GridCell.Tab.0.left" timestamp="1604606962597">
+    <state width="1899" height="295" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1606788363300" />
+    <state width="1899" height="295" key="GridCell.Tab.0.left" timestamp="1606788363300">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1515" height="288" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1604417003155" />
-    <state width="1899" height="295" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1604606962597" />
-    <state width="1899" height="295" key="GridCell.Tab.0.right" timestamp="1604606962597">
+    <state width="1899" height="295" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1606788363300" />
+    <state width="1899" height="295" key="GridCell.Tab.0.right" timestamp="1606788363300">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1515" height="288" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1604417003156" />
-    <state width="1899" height="295" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1604606962597" />
-    <state x="346" y="75" key="SettingsEditor" timestamp="1604425597261">
+    <state width="1899" height="295" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1606788363300" />
+    <state x="346" y="75" key="SettingsEditor" timestamp="1604782469056">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1604408860855" />
-    <state x="346" y="75" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1604425597261" />
+    <state x="346" y="75" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1604782469056" />
     <state x="431" y="145" key="search.everywhere.popup" timestamp="1604409533388">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
