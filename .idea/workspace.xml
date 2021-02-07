@@ -19,16 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="31b25957-377f-46c7-8d46-1444801652c7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Jupyter Notebook/top10ms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jupyter Notebook/.ipynb_checkpoints/Data Analysis-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Jupyter Notebook/.ipynb_checkpoints/Data Analysis-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jupyter Notebook/.ipynb_checkpoints/Hilfscode-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Jupyter Notebook/.ipynb_checkpoints/Hilfscode-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jupyter Notebook/1. Model sklearn train-data.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Jupyter Notebook/1. Model sklearn train-data.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jupyter Notebook/Data Analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Jupyter Notebook/Data Analysis.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jupyter Notebook/Description.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Jupyter Notebook/Description.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jupyter Notebook/Hilfscode.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Jupyter Notebook/Hilfscode.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="31b25957-377f-46c7-8d46-1444801652c7" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -167,9 +158,9 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.data_headers" />
       <item itemvalue="Python.Model SKLEARN" />
       <item itemvalue="Python.Model" />
+      <item itemvalue="Python.data_headers" />
       <item itemvalue="Python.test" />
       <item itemvalue="Python.top10ms" />
     </list>
