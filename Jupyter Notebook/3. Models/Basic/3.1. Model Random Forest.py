@@ -21,7 +21,10 @@ from IPython.display import clear_output
 
 import json
 
-MODEL_FILE = "Random_Forest_All.json"
+from sklearn import preprocessing
+
+MODEL_FILE = "Random_Forest_All_Scaled.json"
+
 
 # Entscheidungsbaum
 TREE_PARAMS = {
@@ -63,6 +66,9 @@ app_train = pd.merge(app_train, pos_mets, left_index=True, right_index=True)
 
 y = app_train["TARGET"]
 x = app_train.drop(["TARGET"], axis=1)
+
+scaler = preprocessing.StandardScaler().fit(x)
+x = scaler.transform(x)
 
 if not MODEL_EXIST:
     # unterteilt den trainingsdatensatz in trainings- und validierungsdatensätze
