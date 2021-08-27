@@ -20,7 +20,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="31b25957-377f-46c7-8d46-1444801652c7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Jupyter Notebook/2. Datenaufbereitung/2. Bureau.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Jupyter Notebook/2. Datenaufbereitung/2. Bureau.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jupyter Notebook/5. Models/Esembler/3. Random Forest/.ipynb_checkpoints/3.6. Model Random Forest All-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Jupyter Notebook/5. Models/Esembler/3. Random Forest/.ipynb_checkpoints/3.6. Model Random Forest All-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jupyter Notebook/5. Models/Esembler/3. Random Forest/.ipynb_checkpoints/Parameterselektion GridSearchCV-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Jupyter Notebook/5. Models/Esembler/3. Random Forest/.ipynb_checkpoints/Parameterselektion GridSearchCV-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jupyter Notebook/5. Models/Esembler/3. Random Forest/3.6. Model Random Forest All.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Jupyter Notebook/5. Models/Esembler/3. Random Forest/3.6. Model Random Forest All.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jupyter Notebook/5. Models/Esembler/3. Random Forest/Parameterselektion GridSearchCV.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Jupyter Notebook/5. Models/Esembler/3. Random Forest/Parameterselektion GridSearchCV.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jupyter Notebook/Submission/.ipynb_checkpoints/Submission-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Jupyter Notebook/Submission/.ipynb_checkpoints/Submission-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jupyter Notebook/Submission/2. Datenaufbereitung/2. Bureau.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Jupyter Notebook/Submission/2. Datenaufbereitung/2. Bureau.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jupyter Notebook/Submission/2. Datenaufbereitung/3. Previous Application.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Jupyter Notebook/Submission/2. Datenaufbereitung/3. Previous Application.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jupyter Notebook/Submission/4. NaN/Fill_NA.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Jupyter Notebook/Submission/4. NaN/Fill_NA.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jupyter Notebook/Submission/Model.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Jupyter Notebook/Submission/Model.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jupyter Notebook/Submission/Submission.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Jupyter Notebook/Submission/Submission.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,8 +63,8 @@
       <recent name="A:\Workspace\Python\Masterarbeit\Project\Models" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.top10ms">
-    <configuration name="Model SKLEARN" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.2. Bureau">
+    <configuration name="1. Application" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Masterarbeit" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -62,11 +72,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Models" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Jupyter Notebook/5. Models/Esembler/3. Random Forest/GridSearch" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Models/Model SKLEARN.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Jupyter Notebook/5. Models/Esembler/3. Random Forest/GridSearch/1. Application.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -75,7 +85,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Model" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2. Bureau" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Masterarbeit" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -83,11 +93,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Jupyter Notebook/5. Models/Esembler/3. Random Forest/GridSearch" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="A:\Workspace\Python\Masterarbeit\Project\Models\Model.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Jupyter Notebook/5. Models/Esembler/3. Random Forest/GridSearch/2. Bureau.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Parameterselektion GridSearchCV" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Masterarbeit" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Jupyter Notebook/5. Models/Esembler/3. Random Forest" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Jupyter Notebook/5. Models/Esembler/3. Random Forest/Parameterselektion GridSearchCV.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -161,17 +192,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.data_headers" />
-      <item itemvalue="Python.Model SKLEARN" />
-      <item itemvalue="Python.Model" />
       <item itemvalue="Python.test" />
       <item itemvalue="Python.top10ms" />
+      <item itemvalue="Python.Parameterselektion GridSearchCV" />
+      <item itemvalue="Python.2. Bureau" />
+      <item itemvalue="Python.1. Application" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.2. Bureau" />
+        <item itemvalue="Python.1. Application" />
+        <item itemvalue="Python.Parameterselektion GridSearchCV" />
         <item itemvalue="Python.top10ms" />
         <item itemvalue="Python.test" />
-        <item itemvalue="Python.Model" />
-        <item itemvalue="Python.Model SKLEARN" />
       </list>
     </recent_temporary>
   </component>
@@ -199,41 +232,21 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="279" y="0" width="1089" height="824" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1612360665702">
+    <state width="1899" height="295" key="GridCell.Tab.0.bottom" timestamp="1629888028874">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="279" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1612360665702" />
-    <state x="685" y="219" key="FileChooserDialogImpl" timestamp="1613127621615">
+    <state width="1899" height="295" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1629888028874" />
+    <state width="1899" height="295" key="GridCell.Tab.0.center" timestamp="1629888028874">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="685" y="219" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1613127621615" />
-    <state x="784" y="442" key="Github.CreateGistDialog" timestamp="1604598460701">
+    <state width="1899" height="295" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1629888028874" />
+    <state width="1899" height="295" key="GridCell.Tab.0.left" timestamp="1629888028874">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="784" y="442" key="Github.CreateGistDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1604598460701" />
-    <state width="1899" height="295" key="GridCell.Tab.0.bottom" timestamp="1612366841936">
+    <state width="1899" height="295" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1629888028874" />
+    <state width="1899" height="295" key="GridCell.Tab.0.right" timestamp="1629888028874">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1899" height="295" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1612366841936" />
-    <state width="1899" height="295" key="GridCell.Tab.0.center" timestamp="1612366841936">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1899" height="295" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1612366841936" />
-    <state width="1899" height="295" key="GridCell.Tab.0.left" timestamp="1612366841936">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1899" height="295" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1612366841936" />
-    <state width="1899" height="295" key="GridCell.Tab.0.right" timestamp="1612366841936">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1899" height="295" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1612366841936" />
-    <state x="346" y="75" key="SettingsEditor" timestamp="1604782469056">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="346" y="75" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1604782469056" />
-    <state x="539" y="190" width="672" height="678" key="search.everywhere.popup" timestamp="1612360625977">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="539" y="190" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1612360625977" />
+    <state width="1899" height="295" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1629888028874" />
   </component>
 </project>
