@@ -20,17 +20,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="31b25957-377f-46c7-8d46-1444801652c7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Jupyter Notebook/5. Models/Esembler/3. Random Forest/GridSearch/3. PA_POS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jupyter Notebook/5. Models/Esembler/3. Random Forest/GridSearch/4. PA_IP.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jupyter Notebook/5. Models/Esembler/3. Random Forest/GridSearch/5. PA_CC.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jupyter Notebook/5. Models/Esembler/3. Random Forest/.ipynb_checkpoints/3.6. Model Random Forest All-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Jupyter Notebook/5. Models/Esembler/3. Random Forest/.ipynb_checkpoints/3.6. Model Random Forest All-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jupyter Notebook/5. Models/Esembler/3. Random Forest/.ipynb_checkpoints/Parameterselektion GridSearchCV-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Jupyter Notebook/5. Models/Esembler/3. Random Forest/.ipynb_checkpoints/Parameterselektion GridSearchCV-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jupyter Notebook/5. Models/Esembler/3. Random Forest/3.6. Model Random Forest All.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Jupyter Notebook/5. Models/Esembler/3. Random Forest/3.6. Model Random Forest All.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jupyter Notebook/5. Models/Esembler/3. Random Forest/Parameterselektion GridSearchCV.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Jupyter Notebook/5. Models/Esembler/3. Random Forest/Parameterselektion GridSearchCV.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jupyter Notebook/Submission/.ipynb_checkpoints/Submission-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Jupyter Notebook/Submission/.ipynb_checkpoints/Submission-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jupyter Notebook/Submission/2. Datenaufbereitung/2. Bureau.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Jupyter Notebook/Submission/2. Datenaufbereitung/2. Bureau.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jupyter Notebook/Submission/2. Datenaufbereitung/3. Previous Application.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Jupyter Notebook/Submission/2. Datenaufbereitung/3. Previous Application.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jupyter Notebook/Submission/4. NaN/Fill_NA.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Jupyter Notebook/Submission/4. NaN/Fill_NA.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jupyter Notebook/Submission/Model.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Jupyter Notebook/Submission/Model.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jupyter Notebook/Submission/Submission.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Jupyter Notebook/Submission/Submission.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jupyter Notebook/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Jupyter Notebook/.ipynb_checkpoints/Untitled-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jupyter Notebook/5. Models/Esembler/1. Logistic/1.1. Model logistic regression Application.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Jupyter Notebook/5. Models/Esembler/1. Logistic/1.1. Model logistic regression Application.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jupyter Notebook/5. Models/Esembler/2. Decision Tree/2.1. Model Decision Tree Application.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Jupyter Notebook/5. Models/Esembler/2. Decision Tree/2.1. Model Decision Tree Application.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jupyter Notebook/5. Models/Esembler/3. Random Forest/3.1. Model Random Forest Application.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Jupyter Notebook/5. Models/Esembler/3. Random Forest/3.1. Model Random Forest Application.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jupyter Notebook/5. Models/Esembler/3. Random Forest/3.4. Model Random Forest PA_IP.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Jupyter Notebook/5. Models/Esembler/3. Random Forest/3.4. Model Random Forest PA_IP.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jupyter Notebook/5. Models/Esembler/3. Random Forest/GridSearch/2. Bureau.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jupyter Notebook/5. Models/Esembler/3. Random Forest/GridSearch/2. Bureau.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jupyter Notebook/Untitled.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Jupyter Notebook/Untitled.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,11 +54,15 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../ReBIS" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Jupyter Notebook/5. Models/Esembler/3. Random Forest/GridSearch" />
     <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\rober\Documents\Workspace\Python\Masterarbeit\Masterarbeit\Jupyter Notebook\5. Models\Esembler\3. Random Forest\GridSearch" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="A:\Workspace\Python\Masterarbeit\Project\Models" />
     </key>
