@@ -19,16 +19,15 @@ bureau = pd.read_csv(DATASET_DIR / "4. FillNA" / "bureau.csv")
 app_train = app_train.set_index("SK_ID_CURR")
 bureau = bureau.set_index("SK_ID_CURR")
 
-MODEL_BUREAU = "3.2. Esembler_RandomForest_bureau.json"
+MODEL_BUREAU = "2.2. Esembler_DecisionTree_Bureau.json"
 
 with open(DATASET_DIR / "Models" / MODEL_BUREAU, 'r') as file:
     model_bureau_data = json.load(file)
 
-# Random Forest
+# Decision Tree
 TREE_PARAMS = {
-    "max_depth": [15],
-    "min_samples_leaf": [17],
-    "n_estimators": [500],
+    "max_depth": [11],
+    "min_samples_leaf": [14],
     "random_state": [0],
     "n_jobs": [-1]
 }

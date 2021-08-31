@@ -20,17 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="31b25957-377f-46c7-8d46-1444801652c7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Jupyter Notebook/5. Models/Esembler/3. Random Forest/GridSearch/3. PA_POS.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jupyter Notebook/5. Models/Esembler/3. Random Forest/GridSearch/4. PA_IP.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jupyter Notebook/5. Models/Esembler/3. Random Forest/GridSearch/5. PA_CC.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jupyter Notebook/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Jupyter Notebook/.ipynb_checkpoints/Untitled-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jupyter Notebook/5. Models/Esembler/1. Logistic/1.1. Model logistic regression Application.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Jupyter Notebook/5. Models/Esembler/1. Logistic/1.1. Model logistic regression Application.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jupyter Notebook/5. Models/Esembler/2. Decision Tree/2.1. Model Decision Tree Application.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Jupyter Notebook/5. Models/Esembler/2. Decision Tree/2.1. Model Decision Tree Application.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jupyter Notebook/5. Models/Esembler/3. Random Forest/3.1. Model Random Forest Application.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Jupyter Notebook/5. Models/Esembler/3. Random Forest/3.1. Model Random Forest Application.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jupyter Notebook/5. Models/Esembler/3. Random Forest/3.4. Model Random Forest PA_IP.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Jupyter Notebook/5. Models/Esembler/3. Random Forest/3.4. Model Random Forest PA_IP.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Jupyter Notebook/5. Models/Esembler/3. Random Forest/GridSearch/2. Bureau.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jupyter Notebook/5. Models/Esembler/3. Random Forest/GridSearch/2. Bureau.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jupyter Notebook/Untitled.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Jupyter Notebook/Untitled.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jupyter Notebook/5. Models/Esembler/3. Random Forest/GridSearch/3. PA_POS.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jupyter Notebook/5. Models/Esembler/3. Random Forest/GridSearch/3. PA_POS.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jupyter Notebook/5. Models/Esembler/3. Random Forest/GridSearch/4. PA_IP.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jupyter Notebook/5. Models/Esembler/3. Random Forest/GridSearch/4. PA_IP.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jupyter Notebook/5. Models/Esembler/3. Random Forest/GridSearch/5. PA_CC.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jupyter Notebook/5. Models/Esembler/3. Random Forest/GridSearch/5. PA_CC.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +61,7 @@
       <recent name="A:\Workspace\Python\Masterarbeit\Project\Models" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.2. Bureau">
+  <component name="RunManager" selected="Python.5. PA_CC">
     <configuration name="1. Application" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Masterarbeit" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -110,7 +104,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Parameterselektion GridSearchCV" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="3. PA_POS" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Masterarbeit" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -118,11 +112,53 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Jupyter Notebook/5. Models/Esembler/3. Random Forest" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Jupyter Notebook/5. Models/Esembler/3. Random Forest/GridSearch" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Jupyter Notebook/5. Models/Esembler/3. Random Forest/Parameterselektion GridSearchCV.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Jupyter Notebook/5. Models/Esembler/3. Random Forest/GridSearch/3. PA_POS.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="4. PA_IP" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Masterarbeit" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Jupyter Notebook/5. Models/Esembler/3. Random Forest/GridSearch" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Jupyter Notebook/5. Models/Esembler/3. Random Forest/GridSearch/4. PA_IP.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="5. PA_CC" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Masterarbeit" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Jupyter Notebook/5. Models/Esembler/3. Random Forest/GridSearch" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Jupyter Notebook/5. Models/Esembler/3. Random Forest/GridSearch/5. PA_CC.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -152,63 +188,21 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Masterarbeit" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Jupyter Notebook" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Jupyter Notebook/test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="top10ms" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Masterarbeit" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Jupyter Notebook" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Jupyter Notebook/top10ms.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
       <item itemvalue="Python.data_headers" />
-      <item itemvalue="Python.test" />
-      <item itemvalue="Python.top10ms" />
-      <item itemvalue="Python.Parameterselektion GridSearchCV" />
-      <item itemvalue="Python.2. Bureau" />
       <item itemvalue="Python.1. Application" />
+      <item itemvalue="Python.2. Bureau" />
+      <item itemvalue="Python.3. PA_POS" />
+      <item itemvalue="Python.4. PA_IP" />
+      <item itemvalue="Python.5. PA_CC" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.5. PA_CC" />
+        <item itemvalue="Python.4. PA_IP" />
+        <item itemvalue="Python.3. PA_POS" />
         <item itemvalue="Python.2. Bureau" />
         <item itemvalue="Python.1. Application" />
-        <item itemvalue="Python.Parameterselektion GridSearchCV" />
-        <item itemvalue="Python.top10ms" />
-        <item itemvalue="Python.test" />
       </list>
     </recent_temporary>
   </component>
@@ -236,21 +230,21 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1899" height="295" key="GridCell.Tab.0.bottom" timestamp="1629888028874">
+    <state width="1899" height="295" key="GridCell.Tab.0.bottom" timestamp="1630164559084">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1899" height="295" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1629888028874" />
-    <state width="1899" height="295" key="GridCell.Tab.0.center" timestamp="1629888028874">
+    <state width="1899" height="295" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1630164559084" />
+    <state width="1899" height="295" key="GridCell.Tab.0.center" timestamp="1630164559084">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1899" height="295" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1629888028874" />
-    <state width="1899" height="295" key="GridCell.Tab.0.left" timestamp="1629888028874">
+    <state width="1899" height="295" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1630164559084" />
+    <state width="1899" height="295" key="GridCell.Tab.0.left" timestamp="1630164559084">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1899" height="295" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1629888028874" />
-    <state width="1899" height="295" key="GridCell.Tab.0.right" timestamp="1629888028874">
+    <state width="1899" height="295" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1630164559084" />
+    <state width="1899" height="295" key="GridCell.Tab.0.right" timestamp="1630164559084">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1899" height="295" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1629888028874" />
+    <state width="1899" height="295" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1630164559084" />
   </component>
 </project>

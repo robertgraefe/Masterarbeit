@@ -14,21 +14,18 @@ else:
     DATASET_DIR = path2
 
 app_train = pd.read_csv(DATASET_DIR / "4. FillNA" / "application.csv")
-bureau = pd.read_csv(DATASET_DIR / "4. FillNA" / "bureau.csv")
 
 app_train = app_train.set_index("SK_ID_CURR")
-bureau = bureau.set_index("SK_ID_CURR")
 
-MODEL_BUREAU = "3.2. Esembler_RandomForest_bureau.json"
+MODEL_APPLICATION = "2.1. Esembler_DecisionTree_Application.json"
 
-with open(DATASET_DIR / "Models" / MODEL_BUREAU, 'r') as file:
-    model_bureau_data = json.load(file)
+with open(DATASET_DIR / "Models" / MODEL_APPLICATION, 'r') as file:
+    model_application_data = json.load(file)
 
-# Random Forest
+# Decision Tree
 TREE_PARAMS = {
-    "max_depth": [15],
-    "min_samples_leaf": [17],
-    "n_estimators": [500],
+    "max_depth": [17],
+    "min_samples_leaf": [10],
     "random_state": [0],
     "n_jobs": [-1]
 }
@@ -37,15 +34,15 @@ model = RandomForestClassifier()
 
 gridsearch = GridSearchCV(model, TREE_PARAMS, scoring='roc_auc', n_jobs=-1)
 
-x = bureau[model_bureau_data["keep"]]
-y = app_train.loc[bureau.index]["TARGET"]
+x = app_train[model_application_data["keep"]]
+y = app_train.loc[app_train.index]["TARGET"]
 
 gridsearch.fit(x,y)
 
 print(gridsearch.best_params_)
 print(gridsearch.best_score_)
 
-model_bureau_data["params"] = gridsearch.best_params_
+model_application_data["params"] = gridsearch.best_params_
 
-with open(DATASET_DIR / "Models" / MODEL_BUREAU, 'w') as file:
-    json.dump(model_bureau_data, file)
+with open(DATASET_DIR / "Models" / MODEL_APPLICATION, 'w') as file:
+    json.dump(model_application_data, file)

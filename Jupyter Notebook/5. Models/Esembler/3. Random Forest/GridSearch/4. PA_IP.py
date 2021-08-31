@@ -27,9 +27,9 @@ with open(DATASET_DIR / "Models" / MODEL_PA_IP, 'r') as file:
 
 # Random Forest
 TREE_PARAMS = {
-    "max_depth": [13,15,17],
-#    "min_samples_leaf": [15,17,20],
-#    "n_estimators": [800, 900, 1000],
+    "max_depth": [13],
+    "min_samples_leaf": [15],
+    "n_estimators": [1100],
     "random_state": [0],
     "n_jobs": [-1]
 }
