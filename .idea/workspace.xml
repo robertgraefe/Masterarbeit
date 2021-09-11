@@ -20,11 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="31b25957-377f-46c7-8d46-1444801652c7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jupyter Notebook/5. Models/Esembler/3. Random Forest/GridSearch/2. Bureau.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jupyter Notebook/5. Models/Esembler/3. Random Forest/GridSearch/2. Bureau.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jupyter Notebook/5. Models/Esembler/3. Random Forest/GridSearch/3. PA_POS.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jupyter Notebook/5. Models/Esembler/3. Random Forest/GridSearch/3. PA_POS.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jupyter Notebook/5. Models/Esembler/3. Random Forest/GridSearch/4. PA_IP.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jupyter Notebook/5. Models/Esembler/3. Random Forest/GridSearch/4. PA_IP.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jupyter Notebook/5. Models/Esembler/3. Random Forest/GridSearch/5. PA_CC.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jupyter Notebook/5. Models/Esembler/3. Random Forest/GridSearch/5. PA_CC.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jupyter Notebook/1. Datenanalyse/7. Credit Card.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Jupyter Notebook/1. Datenanalyse/7. Credit Card.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jupyter Notebook/2. Datenaufbereitung/1. Application.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Jupyter Notebook/2. Datenaufbereitung/1. Application.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jupyter Notebook/2. Datenaufbereitung/2. Bureau.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Jupyter Notebook/2. Datenaufbereitung/2. Bureau.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jupyter Notebook/2. Datenaufbereitung/3. Previous Application.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Jupyter Notebook/2. Datenaufbereitung/3. Previous Application.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jupyter Notebook/2. Datenaufbereitung/4. POS.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Jupyter Notebook/2. Datenaufbereitung/4. POS.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jupyter Notebook/5. Models/Esembler/1. Logistic/1.1. Model logistic regression Application.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Jupyter Notebook/5. Models/Esembler/1. Logistic/1.1. Model logistic regression Application.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jupyter Notebook/5. Models/Esembler/3. Random Forest/3.6. Model Random Forest All.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Jupyter Notebook/5. Models/Esembler/3. Random Forest/3.6. Model Random Forest All.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -189,12 +191,12 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.data_headers" />
       <item itemvalue="Python.1. Application" />
       <item itemvalue="Python.2. Bureau" />
       <item itemvalue="Python.3. PA_POS" />
       <item itemvalue="Python.4. PA_IP" />
       <item itemvalue="Python.5. PA_CC" />
+      <item itemvalue="Python.data_headers" />
     </list>
     <recent_temporary>
       <list>
